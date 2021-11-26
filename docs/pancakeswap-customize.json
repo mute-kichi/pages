@@ -13,8 +13,8 @@
   ],
   "tokens": [
     {
-      "name": "E_DGE Token",
-      "symbol": "E_DGE",
+      "name": "EDGE Token",
+      "symbol": "EDGE",
       "address": "0x87c10EE2609Ba5B27729775460261914E24Ea300",
       "chainId": 56,
       "decimals": 18,
