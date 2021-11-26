@@ -1,0 +1,24 @@
+{
+  "name": "PancakeSwap Custom",
+  "timestamp": "2021-11-26T08:04:09.127Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 9
+  },
+  "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "top 100"
+  ],
+  "tokens": [
+    {
+      "name": "E_DGE Token",
+      "symbol": "E_DGE",
+      "address": "0x87c10EE2609Ba5B27729775460261914E24Ea300",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mute-kichi/assets/main/edge.png"
+    }
+  ]
+}
