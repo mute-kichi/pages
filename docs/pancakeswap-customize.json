@@ -15,10 +15,10 @@
     {
       "name": "EDGE Token",
       "symbol": "EDGE",
-      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "address": "0x87c10EE2609Ba5B27729775460261914E24Ea300",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+      "logoURI": "https://raw.githubusercontent.com/mute-kichi/assets/main/edge.png"
     }
   ]
 }
